@@ -8,8 +8,8 @@ The design part was done with CSS.
 
 What I used?
 
-UseState 
+- UseState 
 
-Props
+- Props
 
 [Click Here for Preview!](https://languagecardproject.netlify.app/)
