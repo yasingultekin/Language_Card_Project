@@ -12,4 +12,6 @@ What I used?
 
 - Props
 
+- setTimeout
+
 [Click Here for Preview!](https://languagecardproject.netlify.app/)
